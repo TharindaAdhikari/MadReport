@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Secret Gift</string>
+    <string name="addproduct">Add a new Product</string>
+    <string name="proNam">Product Name</string>
+    <string name="srch">Search</string>
+    <string name="updPro">Update / Delete Product</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">Secret Gift</string>
+
+    <string name="Cart_Msg1">Send suprise gift to Sri Lanka with Same Day Delivery Options</string>
+    <string name="Cart_Msg2">Order from us right away, will make your event special</string>
+    <string name="Cart_Msg3">Gift your loved ones with our products</string>
+    <string name="Shiperment_Msg1">No matter where you are: whether you are at home, or in other location</string>
+    <string name="Shiperment_Msg2">Delivery Details</string>
+    <string name="Shiperment_Msg3">Come visit us again on Secret gift</string>
     <string name="addproduct">Add a new Product</string>
     <string name="proNam">Product Name</string>
     <string name="srch">Search</string>
@@ -7,4 +14,17 @@
     <string name="title_activity_home">Home</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Full_Name">Full Name</string>
+    <string name="Phone_Number">Phone Number</string>
+    <string name="Email">Email</string>
+    <string name="Change_Profile">Change Profile</string>
+    <string name="account">Already Have An Account</string>
+    <string name="add_product">Add Product</string>
+    <string name="iphone_11_pro_max">iphone 11 Pro Max</string>
+    <string name="price">Price :</string>
+    <string name="_1500">1500$</string>
+    <string name="seller_registration_form">Seller Registration Form</string>
+    <string name="register">Register</string>
+
+
 </resources>
